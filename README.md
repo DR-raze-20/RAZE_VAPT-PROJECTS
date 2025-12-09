@@ -1,1 +1,1 @@
-"Raze-Vuln-Tool is a beginner-friendly VAPT automation scanner built in Python. It performs SQL Injection testing, XSS detection, and TCP/UDP port scanning using multiple scan modes (fast, full, custom). The tool also generates clean, professional PDF reports for each assessment."
+
